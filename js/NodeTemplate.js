@@ -16,6 +16,7 @@ function aflogo(){
     this.bgcolor = "rgba(31,31,31,0)";
     this.color =   "rgba(31,31,31,0)";
     this.title = "\u00A0"
+    this.badges = [];
 
     // Optional: Add a dummy input and output to satisfy application requirements
 //    this.addInput("input", null);  // The type can be adjusted based on your needs
